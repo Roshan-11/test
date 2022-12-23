@@ -10,6 +10,6 @@ echo "This is the php file for the practice";
     <title>Document</title>
 </head>
 <body>
-    
+    <p>This is the change done by khushal</p>
 </body>
 </html>
