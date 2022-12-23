@@ -10,7 +10,16 @@ echo "This is the php file for the practice";
     <title>Document</title>
 </head>
 <body>
+<<<<<<< HEAD
     <table class="table">
+=======
+
+<h1>This is the change is done by the khushal in the  hello.php</h1>
+<<<<<<< HEAD
+    <p>This is the change done by khushal</p>
+=======
+    !<table class="table">
+>>>>>>> 4fa454e733768c18fd865b5c2be0bd50a2c64c1a
         <thead>
             <tr>
                 <th scope="col">Color</th>
@@ -46,6 +55,7 @@ echo "This is the php file for the practice";
             </tr>
         </tbody>
     </table>
+<<<<<<< HEAD
     <!doctype html>
     <html lang="en">
     
@@ -146,5 +156,8 @@ echo "This is the php file for the practice";
     </body>
     
     </html>
+=======
+>>>>>>> 078ae0adf35baf90619ce851040f76b2a117f33b
+>>>>>>> 4fa454e733768c18fd865b5c2be0bd50a2c64c1a
 </body>
 </html>
